@@ -1,6 +1,8 @@
 # stationaryOrganizerCAD
 i want to make a stationary organizer, that is compact, yet utilizable purely out of cardboard. This will need a unique custom design, which is why I am 3d modelling it using CAD, allowing me to explore the idea!!! See the project at - https://www.tinkercad.com/things/j7T1EEIXgMB-magnificent-bombul-esboo/edit?sharecode=vd4Wl7wbjHPQO1VODKUiJaG2eFshGIM5VhZLdxaiAhs
 
+Before I show you the project though, I want to talk a bit about the design process, as I found it particularly interesting. During the making of this 3d model, I faced a lot of issues, mainly due to lack of knowledge, but what truly helped me solve this problem was the community. I felt this to be an encouraging factor, as it really proved to me that no matter what you face, there will be a community to back you up(which is also what HackClub is doing for me)
+
 ## Video
 https://github.com/user-attachments/assets/9f97af86-93bd-4ef7-9471-821f1531ec8f
 
